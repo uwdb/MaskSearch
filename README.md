@@ -1,2 +1,1 @@
-# MaskSearch
-Querying Image Masks at Scale
+# MaskSearch: Querying Image Masks at Scale
