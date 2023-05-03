@@ -1234,10 +1234,6 @@ def naive_get_max_udf(
         raise NotImplementedError
 
 
-def get_model_satisfying_area_mean_filter():
-    pass
-
-
 def compute_areas(
         dataset,
         cam_map,
