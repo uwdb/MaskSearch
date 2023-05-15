@@ -1,3 +1,5 @@
 # MaskSearch: Querying Image Masks at Scale
 
-Code instructions and preprint coming soon!
+Preprint: https://arxiv.org/pdf/2305.02375.pdf
+
+Code instructions coming soon!
