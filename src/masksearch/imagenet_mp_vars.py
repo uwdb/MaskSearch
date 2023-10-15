@@ -3,7 +3,6 @@ import numpy as np
 
 
 def init():
-    import pickle
     import torch
     import torchvision.transforms as transforms
     from pytorch_grad_cam import (

@@ -5,10 +5,7 @@ sys.argv = ['']
 
 def init():
 
-    import argparse
-    import json
     import pickle
-    import matplotlib.pyplot as plt
     import torchvision.transforms as transforms
     from models.initializer import initialize_model
     from pytorch_grad_cam import (
